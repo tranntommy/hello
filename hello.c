@@ -5,11 +5,14 @@ Tis program prints out my name and major
 */
 
 #include <stdio.h>
-#iclude <stdlib.h>
+#include <stdlib.h>
 
 int main(void)
 {
 	printf("Truong Tran!\n");
 	printf("Electrical Engineer\n");
+
+	printf("Tommy Nguyen\n");
+	printf("Software Engineer\n");
 	return 0;
 }
